@@ -1,5 +1,9 @@
 # ISYS2001
 
+<!-- BADGES:START -->
+[![curtin](https://img.shields.io/badge/-curtin-f57c00?style=flat-square)](https://github.com/topics/curtin) [![analytics](https://img.shields.io/badge/-analytics-blue?style=flat-square)](https://github.com/topics/analytics) [![coursework](https://img.shields.io/badge/-coursework-blue?style=flat-square)](https://github.com/topics/coursework) [![data-science](https://img.shields.io/badge/-data--science-blue?style=flat-square)](https://github.com/topics/data-science) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![education](https://img.shields.io/badge/-education-blue?style=flat-square)](https://github.com/topics/education) [![jupyter-notebook](https://img.shields.io/badge/-jupyter--notebook-blue?style=flat-square)](https://github.com/topics/jupyter-notebook) [![learning](https://img.shields.io/badge/-learning-blue?style=flat-square)](https://github.com/topics/learning) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![university](https://img.shields.io/badge/-university-blue?style=flat-square)](https://github.com/topics/university)
+<!-- BADGES:END -->
+
 A comprehensive coursework repository containing Jupyter notebooks and practical exercises for learning data science and analytics at Curtin University. This repository serves as a structured learning path covering Python programming fundamentals, data manipulation with pandas, and analytical thinking concepts.
 
 ## Description
